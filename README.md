@@ -12,10 +12,16 @@ Platform Explorers is an initiative aimed at bridging the gap between theoretica
 | Project Track | Description |
 |----------|-------------|
 | **Cybersecurity** | The cybersecurity use cases present various scenarios to mentees which challenge them to utilize solutions like Defender XDR, Intune, Microsoft Purview and Entra ID to solve business problems related to email security, information protection, device and application protection. |
-| **Cloud Computing Projects** | Challenges mentees to design and implement cost-effective, secure, and well-governed cloud solutions within a limited budget, requiring them to discover and apply the right Azure services while managing resources efficiently. |
-| **Power Platform Projects** | Hands-on projects for automating processes and building low-code applications. |
+| **Cloud Computing** | Challenges mentees to design and implement cost-effective, secure, and well-governed cloud solutions within a limited budget, requiring them to discover and apply the right Azure services while managing resources efficiently. |
+| **Power Platform* | Hands-on projects for automating processes and building low-code applications. |
 | **Microsoft 365 Administration** | Users will learn to enhance security, compliance, and collaboration in Exchange Online, SharePoint Online, and Microsoft Teams, helping organizations secure communications, streamline workflows, and meet compliance requirements. |
 | **Product Management** | Mentees will learn to define problems, prioritize features, create Product Requirement Documents (PRDs), and collaborate with teams to build and improve products. They will work on real-world scenarios, developing both new products and enhancing existing ones. |
+| **AI Workforce** | Mentees will learn to define problems, prioritize features, create Product Requirement Documents (PRDs), and collaborate with teams to build and improve products. They will work on real-world scenarios, developing both new products and enhancing existing ones. |
+| **Dynamics 365 Customer Engagement** | Mentees will learn to define problems, prioritize features, create Product Requirement Documents (PRDs), and collaborate with teams to build and improve products. They will work on real-world scenarios, developing both new products and enhancing existing ones. |
+| **Dynamics 365 ERP** | Mentees will learn to define problems, prioritize features, create Product Requirement Documents (PRDs), and collaborate with teams to build and improve products. They will work on real-world scenarios, developing both new products and enhancing existing ones. |
+
+
+
 
 <br> <br>
 
@@ -42,7 +48,7 @@ Throughout this cohort you'll find many project tracks and use cases, so we enco
 ## Thank you to our Coaches:
 
   <li> Juan Ojochemi Idowu</li>
-	<li>Mathew Ade</li>	
+	<li>Mathew Ede</li>	
 	 <li> Rachel Irabor </li> 
 	<li> Sarah Anueyiagu </li>
 	<li> Church Ephraim</li>
